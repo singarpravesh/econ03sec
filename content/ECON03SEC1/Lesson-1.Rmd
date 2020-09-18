@@ -14,4 +14,9 @@ output: html_document
 - Exercise:
     - Use the [States.xlsx](States.xlsx) file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).
 
-## 1.2 Next Lesson
+## 1.2 Lookup functions.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKD4v3dIlx4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Download video practice file [Lookup.xlsx](Lookup.xlsx)
+
