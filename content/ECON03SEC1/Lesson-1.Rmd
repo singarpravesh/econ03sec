@@ -16,7 +16,7 @@ output: html_document
 
 ## 1.2 Lookup functions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKD4v3dIlx4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dO0o9tVw38I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Download video practice file [Lookup.xlsx](Lookup.xlsx)
 
