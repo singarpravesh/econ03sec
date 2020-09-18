@@ -21,7 +21,7 @@ output: html_document
 - Download video practice file [Lookup.xlsx](Lookup.xlsx)
 - Exercise:
     - You are thinking of advertising Microsoft products on a sports telecast. As you buy more ads, the price of each ad decreases as shown in the following table:
-```{r, warning=FALSE, message=FALSE}
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
 data.frame(`Number of ads` = c("1-5", "6-10", "11-20", "21 and higher"),
            `Price per ad` = c("$12,000","$11,000", "$10,000", "$9,000")) %>%

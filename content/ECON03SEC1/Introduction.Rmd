@@ -12,8 +12,8 @@ output: html_document
 ---
 
 ## What should you know before reading this book?
-- Formulas should begin with an = sign.
-- `*` is used for multiplication, / for division, ^ is used to raise a quantity to a power.
+- Formulas should begin with an $=$ sign.
+- $*$ is used for multiplication, $/$ for division, $^$ is used to raise a quantity to a power.
 - **Absolute cell reference**: For example `$A$4` keeps the value at cell `A4` constant throughout any operation.
 - **Mixed cell reference**: For example `$A4` keeps column A constant and row 4 variable. Similarly, `A$4` keeps row 4 constant and column A variable.
 
