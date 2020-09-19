@@ -1,5 +1,5 @@
 ---
-title: "Lesson 1"
+title: "Moddule 2: Data Management"
 author: "pravesh"
 date: "2020-09-18"
 output: html_document

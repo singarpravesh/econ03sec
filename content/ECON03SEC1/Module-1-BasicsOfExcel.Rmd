@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Module 1: Basics of Excel"
 author: "pravesh"
 date: "2020-09-17"
 output: html_document

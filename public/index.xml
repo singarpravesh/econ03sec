@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>Lesson 1</title>
-      <link>/econ03sec1/lesson-1/</link>
+      <title>Moddule 2: Data Management</title>
+      <link>/econ03sec1/module-2-data-management/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/econ03sec1/lesson-1/</guid>
+      <guid>/econ03sec1/module-2-data-management/</guid>
       <description>1.1 Creating named ranges.Download the file Historicalinvest.xlsx that is used in the video and practice.Exercise:Use the States.xlsx file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).1.2 Lookup functions.Download video practice file Lookup.xlsxExercise:You are thinking of advertising Microsoft products on a sports telecast.</description>
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>/econ03sec1/introduction/</link>
+      <title>Module 1: Basics of Excel</title>
+      <link>/econ03sec1/module-1-basicsofexcel/</link>
       <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/econ03sec1/introduction/</guid>
+      <guid>/econ03sec1/module-1-basicsofexcel/</guid>
       <description>We shall use Microsoft Excel 2013 during the course. So I would suggest the class to install the 2013 version in their computers.Go through the syllabus uploaded in the university website.The reference book is Microsoft Excel 2013: Data Analysis and Business Modeling by Wayne L. Winston.What should you know before reading this book?Formulas should begin with an \(=\) sign.\(*\) is used for multiplication, \(/\) for division, \(^\) is used to raise a quantity to a power.</description>
     </item>
     
