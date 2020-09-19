@@ -28,5 +28,8 @@ data.frame(`Number of ads` = c("1-5", "6-10", "11-20", "21 and higher"),
   knitr::kable() %>% 
   kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = FALSE)
 ```
-      For example, if you buy 8 ads, you pay `$11,000` per ad, but if you buy 14 ads, you pay `$10,000` per ad. Write a formula that yields the total cost of purchasing any number of ads.   
+      
+  For example, if you buy 8 ads, you pay `$11,000` per ad, but if you buy 14 ads, you pay `$10,000` per ad. Write a formula that yields the total cost of purchasing any number of ads.
+  
+  - The [Lookupmultiplecolumns.xlsx](Lookupmultiplecolumns.xlsx) file contains information about several sales made at an electronics store. A salesperson’s name will be entered in B17. Write an Excel formula that can be copied from C17 to D17:F17 that extracts each salesperson’s radio sales to C17, TV sales to D17, printer sales to E17, and CD sales to F17.
 
