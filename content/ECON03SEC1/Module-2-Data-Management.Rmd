@@ -5,6 +5,8 @@ date: "2020-09-18"
 output: html_document
 ---
 
+## 2.1 Data transformation
+
 
 ## 1.1 Creating named ranges.
 

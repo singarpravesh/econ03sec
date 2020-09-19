@@ -11,10 +11,10 @@ output: html_document
 
 ---
 
-## 1. Introduction
+## 1.1 Introduction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/weGDsEFRnrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 2. Few other 'must know' things before you begin.
+## 1.2 Few other 'must know' things before you begin.
 - Formulas should begin with an $=$ sign.
 - $*$ is used for multiplication, $/$ for division, $^$ is used to raise a quantity to a power.
 - **Absolute cell reference**: For example `$A$4` keeps the value at cell `A4` constant throughout any operation.
