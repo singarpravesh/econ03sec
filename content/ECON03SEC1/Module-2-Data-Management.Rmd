@@ -6,9 +6,11 @@ output: html_document
 ---
 
 ## 2.1 Data transformation
+In this lecture we shall cover: Data transformation: arithmetic operation- addition, subtraction, multiplication, log transformation, exponential, squaring and square root, indices. Along with these topics we shall also discuss copy-paste and transpose cells with an example as an extension to the earlier lecture.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWCiPE5NzO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 1.1 Creating named ranges.
+## 2.2 Creating named ranges.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uRci9PnZQ7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -16,7 +18,7 @@ output: html_document
 - Exercise:
     - Use the [States.xlsx](States.xlsx) file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).
 
-## 1.2 Lookup functions.
+## 2.3 Lookup functions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dO0o9tVw38I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
