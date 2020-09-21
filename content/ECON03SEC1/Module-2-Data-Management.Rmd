@@ -42,6 +42,7 @@ This video is the second part explaining the use of `IF()` function. Here we wil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/inBN7VsJtN8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- Download the files [Ifstatement.xlsx](Ifstatement.xlsx) and [Toyrev.xlsx](Toyrev.xlsx) used in the videos and practice.
 - Exercises:
   - Some rows of column C of the [Problem28data.xlsx](Problem28data.xlsx) file contain the word *and*. Create formulas in column D that place an X in a row of column D if and only if column C in that row contains the word *and*.
   - The [Addresses.xlsx](Addresses.xlsx) file gives people’s names on one line, their street address on the next line, and their city, state, and ZIP code on the following line. How could you put each person’s information on one line?
