@@ -23,7 +23,7 @@ This lecture will focus on importing data from text files and editing text data 
 - Download the file [Lineupsch38.docx](Lineupsch38.docx) that is used in the video and practice.
 - Exercise: The [Kingslineups.docx](Kingslineups.docx) file contains performance ratings for some of the Sacramento Kings lineups. Import this data into Excel.
 
-## 2.2 Creating named ranges.
+## 2.3 Creating named ranges.
 In this lecture video we shall talk about creating named ranges and operations on named ranges.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uRci9PnZQ7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,8 +31,13 @@ In this lecture video we shall talk about creating named ranges and operations o
 - Download the file [Historicalinvest.xlsx](Historicalinvest.xlsx) that is used in the video and practice.
 - Exercise:
     - Use the [States.xlsx](States.xlsx) file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).
+    
+## 2.4 `IF()` statements
+In this video we shall cover `IF()`, nested-`IF()`, and `AND()` functions.
 
-## 2.3 Lookup functions.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Wx5C_8LsKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 2. Lookup functions.
 In this video we shall talk about the `VLOOKUP()` function.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dO0o9tVw38I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
