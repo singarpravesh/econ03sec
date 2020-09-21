@@ -10,7 +10,13 @@ In this lecture we shall cover: Data transformation: arithmetic operation- addit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RWCiPE5NzO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- Download the file [Pastespecial.xlsx](Pastespecial.xlsx) that is used in the video and practice.
+- Exercise:
+    - The [Mavs.xlsx](Mavs.xlsx) file contains statistics for the great 2002–2003 Dallas Mavericks basketball team. Player names are listed in column A, statistical categories are listed in row 3, and statistical results are listed in rows 4–20. Change the worksheet so that all player names are listed in the same row and all statistical categories are listed in the same column.
+    - The [Productpaste.xlsx](Productpaste.xlsx) file contains data on quarterly sales for four products. Copy this data to another range so that quarterly sales are read across instead of down. Link your copied data to the original data so that your computation of annual sales in the copied data range reflect changes entered in rows 5–8.
+
 ## 2.2 Creating named ranges.
+In this lecture video we shall talk about creating named ranges and operations on named ranges.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uRci9PnZQ7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -19,6 +25,7 @@ In this lecture we shall cover: Data transformation: arithmetic operation- addit
     - Use the [States.xlsx](States.xlsx) file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).
 
 ## 2.3 Lookup functions.
+In this video we shall talk about the `VLOOKUP()` function.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dO0o9tVw38I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
