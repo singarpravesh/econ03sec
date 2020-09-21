@@ -21,6 +21,7 @@ This lecture will focus on importing data from text files and editing text data 
 <iframe width="772" height="410" src="https://www.youtube.com/embed/OsRHFUAn3vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Download the file [Lineupsch38.docx](Lineupsch38.docx) that is used in the video and practice.
+- Exercise: The [Kingslineups.docx](Kingslineups.docx) file contains performance ratings for some of the Sacramento Kings lineups. Import this data into Excel.
 
 ## 2.2 Creating named ranges.
 In this lecture video we shall talk about creating named ranges and operations on named ranges.
