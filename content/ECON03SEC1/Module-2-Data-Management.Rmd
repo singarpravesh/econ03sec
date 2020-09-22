@@ -69,7 +69,12 @@ In the following two part videos we shall cover the use of the `COUNTIF()`, `COU
     9. How many songs at least 4 minutes long and sung by Mandy Moore were played in 2007 or earlier?
     10. How many songs exactly three minutes long and sung by Britney Spears were played later than 2004?
     
-    
+
+## 2.6 The `SUMIF()`, `AVERAGEIF()`, `SUMIFS()`, and `AVERAGEIFS()` functions
+In the following two part lectures we shall talk about the SUMIF()`, `AVERAGEIF()`, `SUMIFS()`, and `AVERAGEIFS()` functions which are similar to the functions that we discussed in section 2.5 above. In addition we shall also discuss how to **remove duplicates** in data. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/spEXO9nUNIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 2. Lookup functions.
 In this video we shall talk about the `VLOOKUP()` function.
 
