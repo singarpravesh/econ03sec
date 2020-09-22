@@ -53,6 +53,23 @@ In the following two part videos we shall cover the use of the `COUNTIF()`, `COU
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IN-aQLLs1N8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8liGWk0-_U8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Download the file [Rock.xlsx](Rock.xlsx) used in the video and practice.
+- Exercises:
+  - The following questions refer to the [Rock.xlsx](Rock.xlsx) file:
+    1. How many songs were not sung by Britney Spears?
+    2. How many songs were played before June 15, 2004?
+    3. How many songs were played between June 1, 2004, and July 4, 2006? Hint: Take the     difference between two COUNTIF functions.
+    4. How many songs were sung by singers whose last names begin with *M*?
+    5. How many songs were sung by singers whose names contain an *e*?
+    6. Create a formula that always yields the number of songs played today. Hint: Use the TODAY() function.
+    7. For the D4:G15 cell range, count the cells containing a numeric value. Count the number of blank cells. Count the number of nonblank cells.
+    8. How many songs sung by Barry Manilow were played in 2004?
+    9. How many songs at least 4 minutes long and sung by Mandy Moore were played in 2007 or earlier?
+    10. How many songs exactly three minutes long and sung by Britney Spears were played later than 2004?
+    
+    
 ## 2. Lookup functions.
 In this video we shall talk about the `VLOOKUP()` function.
 
