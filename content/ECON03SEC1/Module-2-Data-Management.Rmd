@@ -18,7 +18,7 @@ In this lecture we shall cover: Data transformation: arithmetic operation- addit
 ## 2.2 Importing and editing data from text files/documents.
 This lecture will focus on importing data from text files and editing text data to perform mathematical operations.
 
-<iframe width="772" height="410" src="https://www.youtube.com/embed/OsRHFUAn3vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OsRHFUAn3vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Download the file [Lineupsch38.docx](Lineupsch38.docx) that is used in the video and practice.
 - Exercise: The [Kingslineups.docx](Kingslineups.docx) file contains performance ratings for some of the Sacramento Kings lineups. Import this data into Excel.
@@ -48,6 +48,10 @@ This video is the second part explaining the use of `IF()` function. Here we wil
   - The [Addresses.xlsx](Addresses.xlsx) file gives people’s names on one line, their street address on the next line, and their city, state, and ZIP code on the following line. How could you put each person’s information on one line?
   - A major drug company is trying to determine the correct plant capacity for a new drug. A unit of annual capacity can be built for a cost of $\$10$. Each unit of the drug sells for $\$12$ and incurs variable costs of $\$2$. The drug will be sold for 10 years. Develop a worksheet that computes the company’s 10-year profit, given the chosen annual capacity level and the annual demand for the drug. Assume demand for the drug is the same each year. You can ignore the time value of money in this problem.
 
+## 2.5 The `COUNTIF()`, `COUNTIFS()`, `COUNT()`, `COUNTA()`, and `COUNTBLANK()` functions.
+In the following two part videos we shall cover the use of the `COUNTIF()`, `COUNTIFS()`, `COUNT()`, `COUNTA()`, and `COUNTBLANK()` functions.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IN-aQLLs1N8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2. Lookup functions.
 In this video we shall talk about the `VLOOKUP()` function.
