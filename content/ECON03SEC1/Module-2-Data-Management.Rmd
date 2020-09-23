@@ -15,6 +15,8 @@ In this lecture we shall cover: Data transformation: arithmetic operation- addit
     - The [Mavs.xlsx](Mavs.xlsx) file contains statistics for the great 2002–2003 Dallas Mavericks basketball team. Player names are listed in column A, statistical categories are listed in row 3, and statistical results are listed in rows 4–20. Change the worksheet so that all player names are listed in the same row and all statistical categories are listed in the same column.
     - The [Productpaste.xlsx](Productpaste.xlsx) file contains data on quarterly sales for four products. Copy this data to another range so that quarterly sales are read across instead of down. Link your copied data to the original data so that your computation of annual sales in the copied data range reflect changes entered in rows 5–8.
     
+---
+    
 ## 2.2 Importing and editing data from text files/documents.
 This lecture will focus on importing data from text files and editing text data to perform mathematical operations.
 
@@ -22,6 +24,8 @@ This lecture will focus on importing data from text files and editing text data 
 
 - Download the file [Lineupsch38.docx](Lineupsch38.docx) that is used in the video and practice.
 - Exercise: The [Kingslineups.docx](Kingslineups.docx) file contains performance ratings for some of the Sacramento Kings lineups. Import this data into Excel.
+
+---
 
 ## 2.3 Creating named ranges.
 In this lecture video we shall talk about creating named ranges and operations on named ranges.
@@ -31,6 +35,8 @@ In this lecture video we shall talk about creating named ranges and operations o
 - Download the file [Historicalinvest.xlsx](Historicalinvest.xlsx) that is used in the video and practice.
 - Exercise:
     - Use the [States.xlsx](States.xlsx) file to calculate the total sales in Arizona, California, Montana, New York, and New Jersey. Compute the total sales in a form such as AZ+CA+MT+NY+NJ instead of SUM(A21:A25).
+
+---
     
 ## 2.4.1 `IF()` statement (Part - 1)
 In this video we shall cover `IF()`, nested-`IF()`, and `AND()` functions.
