@@ -75,6 +75,36 @@ In the following two part lectures we shall talk about the SUMIF()`, `AVERAGEIF(
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/spEXO9nUNIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AB0CeDz04qY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Download the file [Makeup2007.xlsx](Makeup2007.xlsx) used in the videos and practice.
+- Exercises:
+  - The following questions refer to the [Makeup2007.xlsx](Makeup2007.xlsx) file.
+  1. For each product, determine the total number of units and dollar volume sold.
+  2. Determine the total revenue earned before December 10, 2005.
+  3. Determine the total units sold by salespeople whose last names begin with C.
+  4. Determine the total revenue earned by people who have five letters in their names.
+  5. How many units were sold by people other than Colleen?
+  6. How many units of makeup were sold from January 15, 2004, through February 15, 2005?
+  7. The [NBA.xlsx](NBA.xlsx) file contains the following information:
+    • Columns A and B list the name of each NBA team and a code number for each team. For example, team 1 is Atlanta and so on.
+    • Column C lists the home team for each game.
+    • Column D lists the visiting team for each game.
+    • Column E lists points scored by the home team.
+    • Column F lists points scored by the visiting team.
+      From this data, compute for each team the average number of points the team scored per game and the average number of points the team gave up.
+  8. The [Toysrus.xlsx](Toysrus.xlsx) file contains sales revenue (in millions of dollars) during each quarter for the years 1997–2001 and the first two quarters of 2002. Use this data to compute a seasonal index for each quarter of the year. For example, if average sales during the first quarter were 80 percent of the overall average sales per quarter, the first quarter would have a seasonal index of 0.8.
+  9. The [Sumifrows.xlsx](Sumifrows.xlsx) file contains sales data during several winter, spring, summer, and fall quarters. Determine average sales during the winter, spring, summer, and fall quarters.
+  10. Again, by using the [Makeup2007.xlsx](Makeup2007.xlsx) file, determine how much revenue was made on sales transactions involving at least 50 units of makeup.
+  11. How many units of lip gloss did Cici sell in 2004?
+  12. What is the average number of units of foundation sold by Emilee?
+  13. What is the average dollar size of a foundation sale by Betsy after the end of 2004?
+  14. In transactions in which Ashley sold at least 40 units of lipstick, what is the total dollar amount?
+  15. Create a table that contains sales of each product by each person.
+  16. Create a table that, when you enter a year in your worksheet, contains sales of each product by a person during that year.
+  17. From the [Numbers.xlsx](Numbers.xlsx) file, find the total of all numbers between 5 and 15, inclusive.
+  18. From the [Numbers.xlsx](Numbers.xlsx) file, find the average of all numbers between 10 and 25, inclusive.
+
 ## 2. Lookup functions.
 In this video we shall talk about the `VLOOKUP()` function.
 
