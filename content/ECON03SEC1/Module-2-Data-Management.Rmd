@@ -105,6 +105,12 @@ In the following two part lectures we shall talk about the SUMIF()`, `AVERAGEIF(
   17. From the [Numbers.xlsx](Numbers.xlsx) file, find the total of all numbers between 5 and 15, inclusive.
   18. From the [Numbers.xlsx](Numbers.xlsx) file, find the average of all numbers between 10 and 25, inclusive.
 
+## 2.7 Sorting 
+In the following lectures we shall learn how to do multi-level (criteria) sorting, sorting with cell colour, and font colour. We shall also deal with sorting row values i.e. horizontal sorting.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uj1nt7L6MlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## 2. Lookup functions.
 In this video we shall talk about the `VLOOKUP()` function.
 
