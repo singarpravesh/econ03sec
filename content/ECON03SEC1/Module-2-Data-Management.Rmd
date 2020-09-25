@@ -1,7 +1,7 @@
 ---
 title: "Module 2: Data Management"
 author: "pravesh"
-date: "2020-09-18"
+date: "2020-09-16"
 output: html_document
 ---
 
@@ -127,6 +127,31 @@ In the following lectures we shall learn how to do multi-level (criteria) sortin
   2. The [Sortday.xlsx](Sortday.xlsx) file contains hours worked on different days of the week. Sort the data so that Monday data is followed by Tuesday data and so on.
   3. The [Sorticons.xlsx](Sorticons.xlsx) file contains annual investment returns with an up arrow used to indicate good years, a horizontal arrow used to indicate average years, and a red down arrow used to indicate bad years. Sort the data by the icons in the Stock column with up arrows on top, followed by horizontal arrows and then red down arrows.
   4. The [Makeupsortfont.xlsx](Makeupsortfont.xlsx) file contains your makeup data with certain dates shown in blue, red, or brown font. Sort the data so that brown dates are on top, followed by red dates and then blue dates
+
+---
+
+## 2.8 Filtering and removing duplicates
+In the following videos we shall focus on filtering data and removing duplicate values in data.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NAkxo3MeAt4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/72d0rb9mJVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Download and use the file to practice.
+- Exercises:
+  - The following questions relate the file.
+  1. Find all transactions in which Hallagan sold eyeliner in the West region.
+  2. Find all transactions that rank in the top 5 percent with regard to units sold.
+  3. Find the top 20 revenue-generating transactions that involve foundation sales.
+  4. Find all transactions involving sales of at least 60 units during 2004 for which the per-unit price was a maximum of $3.10.
+  5. Find all foundation transactions during the first three months of 2004 for which the per-unit price was larger than the average price received for foundation during the entire period.
+  6. Find all transactions in which Zaret or Betsy sold either lipstick or foundation.
+  7. Find all unique combinations of product and salesperson’s name.
+  8. Find all the top 30 sales (by units) occurring in 2005 that involved lip gloss or mascara.
+  9. Find all sales by Jen between August 10 and September 15, 2005.
+  10. Find all sales of lipstick sold by Colleen for which the number of units sold is higher than the average number of units in a lipstick transaction.
+  11. Find all unique combinations of name, product, and location occurring during the first three months of 2006.
+  12. Find all records in which the product cell is colored yellow.
 
 ---
 
