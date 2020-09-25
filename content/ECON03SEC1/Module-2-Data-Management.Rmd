@@ -5,7 +5,20 @@ date: "2020-09-16"
 output: html_document
 ---
 
-## 2.1 Data transformation
+# Contents
+[2.1 Data transformation](#2.1) <br>
+[2.2 Importing and editing data from text files/documents](#2.2)<br>
+[2.3 Creating named ranges](#2.3)<br>
+[2.4 `IF()` statement (Part - 1)](#2.4)<br>
+[2.5 The `COUNTIF()`, `COUNTIFS()`, `COUNT()`, `COUNTA()`, and `COUNTBLANK()` functions](#2.5)<br>
+[2.6 The `SUMIF()`, `AVERAGEIF()`, `SUMIFS()`, and `AVERAGEIFS()` functions](#2.6)<br>
+[2.7 Sorting](#2.7)<br>
+[2.8 Filtering and removing duplicates](#2.8)<br>
+[2.9 Lookup functions](#2.9)
+
+---
+
+## 2.1 Data transformation {#2.1}
 In this lecture we shall cover: Data transformation: arithmetic operation- addition, subtraction, multiplication, log transformation, exponential, squaring and square root, indices. Along with these topics we shall also discuss copy-paste and transpose cells with an example as an extension/supplement to the earlier lecture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RWCiPE5NzO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -17,7 +30,7 @@ In this lecture we shall cover: Data transformation: arithmetic operation- addit
     
 ---
     
-## 2.2 Importing and editing data from text files/documents.
+## 2.2 Importing and editing data from text files/documents.{#2.2}
 This lecture will focus on importing data from text files and editing text data to perform mathematical operations.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OsRHFUAn3vc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +40,7 @@ This lecture will focus on importing data from text files and editing text data 
 
 ---
 
-## 2.3 Creating named ranges.
+## 2.3 Creating named ranges.{#2.3}
 In this lecture video we shall talk about creating named ranges and operations on named ranges.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uRci9PnZQ7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,12 +51,11 @@ In this lecture video we shall talk about creating named ranges and operations o
 
 ---
     
-## 2.4.1 `IF()` statement (Part - 1)
+## 2.4 `IF()` statement (Part - 1) {#2.4} 
 In this video we shall cover `IF()`, nested-`IF()`, and `AND()` functions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Wx5C_8LsKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 2.4.2 `IF()` statement (Part -2)
 This video is the second part explaining the use of `IF()` function. Here we will learn the use of `IF()` function in combination with some useful functions like `ROW()` and `MOD()`. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/inBN7VsJtN8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -54,7 +66,7 @@ This video is the second part explaining the use of `IF()` function. Here we wil
   - The [Addresses.xlsx](Addresses.xlsx) file gives people’s names on one line, their street address on the next line, and their city, state, and ZIP code on the following line. How could you put each person’s information on one line?
   - A major drug company is trying to determine the correct plant capacity for a new drug. A unit of annual capacity can be built for a cost of $\$10$. Each unit of the drug sells for $\$12$ and incurs variable costs of $\$2$. The drug will be sold for 10 years. Develop a worksheet that computes the company’s 10-year profit, given the chosen annual capacity level and the annual demand for the drug. Assume demand for the drug is the same each year. You can ignore the time value of money in this problem.
 
-## 2.5 The `COUNTIF()`, `COUNTIFS()`, `COUNT()`, `COUNTA()`, and `COUNTBLANK()` functions.
+## 2.5 The `COUNTIF()`, `COUNTIFS()`, `COUNT()`, `COUNTA()`, and `COUNTBLANK()` functions.{#2.5}
 In the following two part videos we shall cover the use of the `COUNTIF()`, `COUNTIFS()`, `COUNT()`, `COUNTA()`, and `COUNTBLANK()` functions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IN-aQLLs1N8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -77,7 +89,7 @@ In the following two part videos we shall cover the use of the `COUNTIF()`, `COU
     
 ---
 
-## 2.6 The `SUMIF()`, `AVERAGEIF()`, `SUMIFS()`, and `AVERAGEIFS()` functions
+## 2.6 The `SUMIF()`, `AVERAGEIF()`, `SUMIFS()`, and `AVERAGEIFS()` functions {#2.6}
 In the following two part lectures we shall talk about the SUMIF()`, `AVERAGEIF()`, `SUMIFS()`, and `AVERAGEIFS()` functions which are similar to the functions that we discussed in section 2.5 above. In addition we shall also discuss how to **remove duplicates** in data. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/spEXO9nUNIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -114,7 +126,7 @@ In the following two part lectures we shall talk about the SUMIF()`, `AVERAGEIF(
 
 ---
 
-## 2.7 Sorting 
+## 2.7 Sorting {#2.7}
 In the following lectures we shall learn how to do multi-level (criteria) sorting, sorting with cell colour, and font colour. We shall also deal with sorting row values i.e. horizontal sorting.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uj1nt7L6MlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -130,7 +142,7 @@ In the following lectures we shall learn how to do multi-level (criteria) sortin
 
 ---
 
-## 2.8 Filtering and removing duplicates
+## 2.8 Filtering and removing duplicates {#2.8}
 In the following videos we shall focus on filtering data and removing duplicate values in data.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NAkxo3MeAt4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -155,7 +167,7 @@ In the following videos we shall focus on filtering data and removing duplicate 
 
 ---
 
-## 2.9 Lookup functions.
+## 2.9 Lookup functions.{#2.9}
 In this video we shall talk about the `VLOOKUP()` function.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dO0o9tVw38I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
