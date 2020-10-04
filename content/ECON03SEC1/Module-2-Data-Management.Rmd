@@ -9,7 +9,7 @@ output: html_document
 [2.1 Data transformation](#two-one) <br>
 [2.2 Importing and editing data from text files/documents](#two-two)<br>
 [2.3 Creating named ranges](#two-three)<br>
-[2.4 `IF()` statement (Part - 1)](#two-four)<br>
+[2.4 `IF()` statement](#two-four)<br>
 [2.5 The `COUNTIF()`, `COUNTIFS()`, `COUNT()`, `COUNTA()`, and `COUNTBLANK()` functions](#two-five)<br>
 [2.6 The `SUMIF()`, `AVERAGEIF()`, `SUMIFS()`, and `AVERAGEIFS()` functions](#two-six)<br>
 [2.7 Sorting](#two-seven)<br>
