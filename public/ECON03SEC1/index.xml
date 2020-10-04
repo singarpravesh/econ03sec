@@ -28,13 +28,25 @@
       <guid>/econ03sec1/module-2-data-management/</guid>
       <description>Contents2.1 Data transformation 2.2 Importing and editing data from text files/documents
 2.3 Creating named ranges
-2.4 IF() statement (Part - 1)
+2.4 IF() statement
 2.5 The COUNTIF(), COUNTIFS(), COUNT(), COUNTA(), and COUNTBLANK() functions
 2.6 The SUMIF(), AVERAGEIF(), SUMIFS(), and AVERAGEIFS() functions
 2.7 Sorting
 2.8 Filtering and removing duplicates
 2.9 Lookup functions
 2.1 Data transformationIn this lecture we shall cover: Data transformation: arithmetic operation- addition, subtraction, multiplication, log transformation, exponential, squaring and square root, indices.</description>
+    </item>
+    
+    <item>
+      <title>Module 3: Descriptive Statistics</title>
+      <link>/econ03sec1/module-3-descriptive-stats/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03sec1/module-3-descriptive-stats/</guid>
+      <description>Contents3.1 Univariate data
+3.2 Multivariate data
+3.1 Univariate dataIn this lecture video we shall cover the Measures of Central Tendency, Measures of Dispersion, treatment of outliers,rank with and without ties, and Moments and Order Statistics.
+Download the file Stock.xlsx used in the video and practice.Exercises:Use the data in the Stock.xlsx file to generate descriptive statistics for Intel and GE stock.</description>
     </item>
     
   </channel>
