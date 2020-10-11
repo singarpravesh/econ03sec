@@ -149,9 +149,9 @@ In the following videos we shall focus on filtering data and removing duplicate 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72d0rb9mJVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Download and use the [Makeupfilter.xlsxs](Makeupfilter.xlsxs) file to practice.
+- Download and use the [Makeupfilter.xlsx](Makeupfilter.xlsx) file to practice.
 - Exercises:
-  - The following questions relate the [Makeupfilter.xlsxs](Makeupfilter.xlsxs) file.
+  - The following questions relate the [Makeupfilter.xlsx](Makeupfilter.xlsx) file.
   1. Find all transactions in which Hallagan sold eyeliner in the West region.
   2. Find all transactions that rank in the top 5 percent with regard to units sold.
   3. Find the top 20 revenue-generating transactions that involve foundation sales.
