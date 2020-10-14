@@ -19,6 +19,8 @@ In this lecture video we shall cover the Measures of Central Tendency, Measures 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juu1I3NYc5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In the above video i.e. Part 2, please note that the explanation for TRIMMEAN() function will hold true only if I had sorted the data in ascending or descending form. Else the explanation is that trim mean is calculated by deleting the x number of highest and the lowest values, and NOT the top or bottom values in an un-sorted/any random data series.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/stP_zzdinTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uO8UPC1exeY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
