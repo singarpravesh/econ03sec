@@ -27,7 +27,7 @@ In the above video i.e. Part 2, please note that the explanation for TRIMMEAN() 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ImA4Y32t8f4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Download the files [descriptiveStats.docx](descriptiveStats.docx) and  [Stock.xlsx](Stock.xlsx) used in the video and practice. 
+- Download the files [descriptiveStats](descriptiveStats.docx) and  [Stock.xlsx](Stock.xlsx) used in the video and practice. 
 - Exercises:
   1. Use the data in the [Stock.xlsx](Stock.xlsx) file to generate descriptive statistics for Intel and GE stock.
   2. Use your answer to Problem 1 to compare the monthly returns on Intel and GE stock.
