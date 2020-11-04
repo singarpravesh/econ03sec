@@ -46,7 +46,7 @@
       <description>Contents3.1 Univariate data
 3.2 Multivariate data
 3.1 Univariate dataIn this lecture video we shall cover the Measures of Central Tendency, Measures of Dispersion, treatment of outliers,rank with and without ties, and Moments and Order Statistics.
-Download the file Stock.xlsx used in the video and practice.Exercises:Use the data in the Stock.xlsx file to generate descriptive statistics for Intel and GE stock.</description>
+In the above video i.e. Part 2, please note that the explanation for TRIMMEAN() function will hold true only if I had sorted the data in ascending or descending form. Else the explanation is that trim mean is calculated by deleting the x number of highest and the lowest values, and NOT the top or bottom values in an un-sorted/any random data series.</description>
     </item>
     
     <item>
@@ -58,6 +58,17 @@
       <description>This module will deal with optimisation problem using the Solver plugin in Excel.
 Download the file Prodmix.xlsx used in the video and practice.Exercises:Suppose your drug company can purchase up to 500 hours of labor at $1 more per hour than current labor costs. How can it maximize profit?
 At a chip manufacturing plant, four technicians (A, B, C, and D) produce three products (Products 1, 2, and 3).</description>
+    </item>
+    
+    <item>
+      <title>Module 5: Graphical Presentation of Data</title>
+      <link>/econ03sec1/module-5-graphicalpresentationofdata/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03sec1/module-5-graphicalpresentationofdata/</guid>
+      <description>Contents5.1 Histograms
+5.1 HistogramsIn this section we shall learn to graph a histogram. A histogram is a commonly used tool to summarise data. It tells you how many observations/data points falls in various ranges of values.
+Download and practice the file used in the video.Exercises:Use the data in Stock.xlsx to construct histograms for monthly returns for GE and Intel.Use the data in Historicalinvest2009.</description>
     </item>
     
     <item>
