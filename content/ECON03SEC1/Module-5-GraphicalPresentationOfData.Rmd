@@ -38,9 +38,22 @@ In this section we shall cover combination charts, picture graphs, sorted graphs
 
 
 - Download the files [combinationstemp.xlsx](combinationstemp.xlsx), [Missingdata.xlsx](Missingdata.xlsx), [Picturegraph.xlsx](Picturegraph.xlsx),  used in the videos and practice.
-- Exercises:
+- Exercises: <br>
 A. The [Cakes.xlsx](Cakes.xlsx) file contains the number of salespeople and revenue for a bakery for each month. Use this data for problems 1 to 4:
   1. Create a combination chart with a secondary axis to summarize monthly salespeople and revenues.
   2. Graph monthly revenue and insert data labels on the chart.
   3. Graph the number of salespeople and insert a data table below the chart.
   4. Plot monthly sales by using a cake chart rather than a column chart.
+  5. The  following table contains the performance reviews of five employees. Use a radar chart to summarise the performance reviews.
+  
+     ```{r, echo=FALSE, message=FALSE, warning=FALSE}
+     library(tidyverse)
+     tibble(Person = c("Wayne", "Vivian", "Greg", "Jen", "Wanda"),
+           Hardworking = c(1,5,10,9,1),
+           Collegial = c(2, 6, 9.5, 2, 1.5),
+           `Completes tasks on time` = c(3,7,9,9,2),
+            Punctual = c(4,8,8.5,4,2.5)) %>% 
+     knitr::kable(align = "c")
+     ```
+  
+  
