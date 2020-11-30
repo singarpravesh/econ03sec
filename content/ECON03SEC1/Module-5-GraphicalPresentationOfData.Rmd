@@ -7,6 +7,7 @@ output: html_document
 
 ## Contents
 [5.1 Histograms](#five-one)
+[5.2 Graphs](#five-two)
 
 ---
 
@@ -26,3 +27,20 @@ In this section we shall learn to graph a histogram. A histogram is a commonly u
   1. The [Unemployment.xlsx](Unemployment.xlsx) file contains monthly US unemployment rates. Create a histogram. Are unemployment rates symmetric or skewed?
   1. The [Teams.xlsx](Teams.xlsx) file contains runs scored by Major League Baseball teams during a season. Create a histogram. Are runs scored symmetric or skewed?
   1. The [NFLpoints.xlsx](NFLpoints.xlsx) file contains points scored by NFL teams during a season. Create a histogram. Are points scored symmetric or skewed?
+  
+## 5.2 Graphs {#five-two}
+In this section we shall cover combination charts, picture graphs, sorted graphs, dealing with missing data in graphs, adding vertical lines to line graphs, radar, and bubble graphs.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_FJSXymvAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jh7WmOfHa6Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- Download the files [combinationstemp.xlsx](combinationstemp.xlsx), [Missingdata.xlsx](Missingdata.xlsx), [Picturegraph.xlsx](Picturegraph.xlsx),  used in the videos and practice.
+- Exercises:
+A. The [Cakes.xlsx](Cakes.xlsx) file contains the number of salespeople and revenue for a bakery for each month. Use this data for problems 1 to 4:
+  1. Create a combination chart with a secondary axis to summarize monthly salespeople and revenues.
+  2. Graph monthly revenue and insert data labels on the chart.
+  3. Graph the number of salespeople and insert a data table below the chart.
+  4. Plot monthly sales by using a cake chart rather than a column chart.
