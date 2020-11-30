@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ## Contents
-[5.1 Histograms](#five-one)
+[5.1 Histograms](#five-one)<br>
 [5.2 Graphs](#five-two)
 
 ---
