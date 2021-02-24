@@ -1,0 +1,84 @@
+---
+title: "Final Assessment Questions (24 February 2021)"
+author: "pravesh"
+date: "2020-09-18"
+output: html_document
+---
+
+**Instructions:**
+
+1. *You have eight questions of 5 marks each. You need to attempt all. *
+1. *Download the files and save them on your desktop.* 
+1. *Open a new excel workbook and save it in your roll number, e.g. ECON01. For backlog candidates you can save it as BL-ECON01 *
+1. *For example if you are solving question 1 then copy the data and paste/save it to sheet 1 of ECON01 workbook. Similarly, for Q2 copy-paste the data in sheet 2 of the workbook ECON01. Rename the worksheets 1 & 2 as Q1 and Q2 respectively. Do this for the rest. *
+1. *At the end save your workbook and email (pravesh.econ@presiuniv.ac.in) it to me. Note that you will have just one workbook to send to.*
+
+Answer the following: [$8\times5 = 40$]
+
+1. You are thinking of advertising Microsoft products on a sports telecast. As you buy more ads, the price of each ad decreases as shown in the following table:
+    ```{r, warning=FALSE, message=FALSE, echo=FALSE, fig.align='center'}
+library(tidyverse)
+data.frame(`Number of ads` = c("1-5", "6-10", "11-20", "21 and higher"),
+           `Price per ad` = c("$12,000","$11,000", "$10,000", "$9,000")) %>%
+  knitr::kable() %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped", "hover"), full_width = FALSE)
+    ```
+      
+    For example, if you buy 8 ads, you pay `$11,000` per ad, but if you buy 14 ads, you pay `$10,000` per ad. Write a formula that yields the total cost of purchasing any number of ads.
+    
+1. You are given (in the [Deming.xlsx](Deming.xlsx) file) the measured diameter (in inches) for 500 rods produced by Rodco, as reported by the production foreman. A rod is considered acceptable if it is at least 1 inch in diameter. In the past, the diameter of the rods produced by Rodco has followed a symmetric histogram:<br>
+     • Construct a histogram of these measurements.<br>
+     • Comment on any unusual aspects of the histogram.<br>
+     Can you guess what might have caused any unusual aspects of the histogram? (Hint: One of quality-guru Edwards Deming’s 14 points is to “Drive out fear.”)
+1. The [Cakes.xlsx](Cakes.xlsx) file contains the number of salespeople and revenue for a bakery for each month. Use this data for problems a to d:
+  a. Create a combination chart with a secondary axis to summarize monthly salespeople and revenues.
+  b. Graph monthly revenue and insert data labels on the chart.
+  c. Graph the number of salespeople and insert a data table below the chart.
+  d. Plot monthly sales by using a cake chart rather than a column chart.
+  
+4. The following questions relate to the data [temp.txt](temp.txt) (to download right click and save link):
+  a. Choose one month and plot a line chart with average temperature anomaly on the vertical axis and time (from 1880 to the latest year available) on the horizontal axis. Label each axis and give a suitable title to your chart.
+  b. The columns labeled ‘DJF’, ‘MAM’, ‘JJA’, and ‘SON’ contain seasonal averages (means). For example, the ‘MAM’ column contains the average of the March, April, and May columns for each year. Plot a separate line chart for each season, using average temperature anomaly for that season on the vertical axis and time (from 1880 to the latest year available) on the horizontal axis.
+  c. The column labeled **J-D** contains the average temperature anomaly for each year. Plot a line chart with annual average temperature anomaly on the vertical axis and time on the horizontal axis. Your chart should look like the figure below.
+```{r 1, fig.cap= "Average temperature anomaly",  echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+read.csv("Module-6-Empirical-Project-1/NASA.csv", header = TRUE, na.strings = "***")  %>%
+  na.omit() %>% 
+  mutate(jd = ts(J.D, start = c(1881), end = c(2019), frequency = 1)) %>% 
+  select(Year, jd) %>% 
+  ggplot(aes(Year, jd))+
+  geom_line()+
+  labs(y = "Average temperature anomalies", title = "Average temperature anomaly in January\n in the northern hemisphere (1880 - 2019)")+
+  geom_hline(yintercept = 0, col = "red")+
+  geom_text(aes(label = "1951 - 1980 Average"),x = 2000, y = -0.1)
+  
+```
+  Add a horizontal line that intersects the vertical axis at 0, and label it '1951-1980 average'.
+  d. What do your charts from the above questions suggest about the relationship between temperature and time?
+5. The [Incomedata.xlsx](Incomedata.xlsx) file contains incomes of a representative sample of Americans in years 1975, 1985, 1995, and 2005. Describe how US personal income has changed over this time period.
+
+6 a. The [Sorticons.xlsx](Sorticons.xlsx) file contains annual investment returns with an up arrow used to indicate good years, a horizontal arrow used to indicate average years, and a red down arrow used to indicate bad years. Sort the data by the icons in the Stock column with up arrows on top, followed by horizontal arrows and then red down arrows.
+
+  b. The [Makeupsortfont.xlsx](Makeupsortfont.xlsx) file contains your makeup data with certain dates shown in blue, red, or brown font. Sort the data so that brown dates are on top, followed by red dates and then blue dates
+  
+7 a. Using the [Makeup2007.xlsx](Makeup2007.xlsx) file, determine how much revenue was made on sales transactions involving at least 50 units of makeup.
+
+  b. How many units of lip gloss did Cici sell in 2004?
+  
+  c. What is the average number of units of foundation sold by Emilee?
+  
+  d. What is the average dollar size of a foundation sale by Betsy after the end of 2004?
+  
+  e. In transactions in which Ashley sold at least 40 units of lipstick, what is the total dollar amount?
+  
+8 The following questions refer to the [Rock.xlsx](Rock.xlsx) file:
+
+  a. How many songs were sung by singers whose names contain an *e*?
+  
+  b. Create a formula that always yields the number of songs played today. 
+  
+  c. For the D4:G15 cell range, count the cells containing a numeric value. Count the number of blank cells. Count the number of nonblank cells.
+   
+  d. How many songs sung by Barry Manilow were played in 2004? How many songs at least 4 minutes long and sung by Mandy Moore were played in 2007 or earlier?
+  
+  e. How many songs exactly three minutes long and sung by Britney Spears were played later than 2004?
