@@ -83,5 +83,14 @@ Project: The behaviour of average surface temperature over timeIn this project 
 Figure 1: Average temperature anomalyGo to NASA’s Goddard Institute for Space Studies website.</description>
     </item>
     
+    <item>
+      <title>R-Introduction</title>
+      <link>/econ03sec1/r-introduction/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/econ03sec1/r-introduction/</guid>
+      <description>1. Introduction to R</description>
+    </item>
+    
   </channel>
 </rss>
